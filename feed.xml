@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://pear.vector.org.pl</id>
+    <updated>2016-08-17T15:27:25+02:00</updated>
+    <title>Pirum PEAR channel Latest Releases</title>
+    <link href="http://pear.vector.org.pl/feed.xml" rel="self" />
+    <author>
+        <name>http://pear.vector.org.pl</name>
+    </author>
+
+
+</feed>
